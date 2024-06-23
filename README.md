@@ -11,7 +11,7 @@
 
 - My Portfolio : [https://shabab01.github.io/](https://shabab01.github.io/)
 
-- Ask me about : **DATA ANALYSIS & VISUALIZATION, EDA, MACHINE LEARNING, STATISTICAL ANALYSIS, EXCEL**
+- Ask me about : **DATA ANALYSIS & VISUALIZATION, EDA, MACHINE LEARNING, STATISTICAL ANALYSIS**
 
 - Reach me : **shababahmed69@gmail.com**
 

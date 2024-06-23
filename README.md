@@ -1,17 +1,17 @@
-<h1 align="center">Hi , I'm Md Shabab</h1>
+<h1 align="center">Hello , I'm Md Shabab</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabab01&label=Profile%20views&color=0e75b6&style=flat" alt="shabab01" /> </p>
 
 - I’m currently working on : **DATA ANALYTICS**
 
-- My Proficiency : **SQL, PYTHON(DATA SC), POWER BI, EXCEL**
+- My Proficiency : **SQL, PYTHON (DATA SC), POWER BI, EXCEL**
 
 - I’m looking for an opportunity : **DATA ANALYTICS & SCIENCE**
 
 - My Portfolio : [https://shabab01.github.io/](https://shabab01.github.io/)
 
-- Ask me about : **DATA ANALYSIS & VISUALIZATION, EDA, MACHINE LEARNING, STATISTICAL ANALYSIS,**
+- Ask me about : **DATA ANALYSIS & VISUALIZATION, EDA, MACHINE LEARNING, STATISTICAL ANALYSIS, EXCEL**
 
 - Reach me : **shababahmed69@gmail.com**
 

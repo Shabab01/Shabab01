@@ -1,15 +1,13 @@
 <h1 align="center">Hello , I'm Md Shabab</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="b9GRmSC"><a href="https://imgur.com/b9GRmSC">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabab01&label=Profile%20views&color=0e75b6&style=flat" alt="shabab01" /> </p>
 
 - I’m currently working on : **DATA ANALYTICS**
 
 - My Proficiency : **SQL, PYTHON (DATA SC), POWER BI, EXCEL**
 
-- I’m looking for an opportunity : **DATA ANALYTICS & SCIENCE**
+- I’m looking for an opportunity in : **DATA ANALYTICS & SCIENCE**
 
 - My Portfolio : [https://shabab01.github.io/](https://shabab01.github.io/)
 

@@ -3,25 +3,25 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabab01&label=Profile%20views&color=0e75b6&style=flat" alt="shabab01" /> </p>
 
-- I’m currently working on **Data Analytics**
+- I’m currently working on : **DATA ANALYTICS**
 
-- My Proficiency **SQL, PYTHON(DATA SC), POWER BI, EXCEL**
+- My Proficiency : **SQL, PYTHON(DATA SC), POWER BI, EXCEL**
 
-- I’m looking for an opportunity **Data Analytics & Science**
+- I’m looking for an opportunity : **DATA ANALYTICS & SCIENCE**
 
-- All of my projects are available at [https://shabab01.github.io/](https://shabab01.github.io/)
+- My Portfolio : [https://shabab01.github.io/](https://shabab01.github.io/)
 
-- Ask me about **DATA ANALYSIS & VISUALIZATION, EDA, MACHINE LEARNING, STATISTICAL ANALYSIS,**
+- Ask me about : **DATA ANALYSIS & VISUALIZATION, EDA, MACHINE LEARNING, STATISTICAL ANALYSIS,**
 
-- How to reach me **shababahmed69@gmail.com**
+- Reach me : **shababahmed69@gmail.com**
 
-- My Resume [https://drive.google.com/file/d/1INU73J173yRYcFmCTe8bybbNwTzIz1WP/view?usp=sharing](https://drive.google.com/file/d/1INU73J173yRYcFmCTe8bybbNwTzIz1WP/view?usp=sharing)
+- My Resume : [https://drive.google.com/file/d/1INU73J173yRYcFmCTe8bybbNwTzIz1WP/view?usp=sharing](https://drive.google.com/file/d/1INU73J173yRYcFmCTe8bybbNwTzIz1WP/view?usp=sharing)
 
-- Fun fact **I think I'm funny**
+- Fun fact : **I'M FUNNY :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/md-shabab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md shabab" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/md-shabab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-shabab" height="30" width="40" /></a>
 <a href="https://instagram.com/shabab_here" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shabab_here" height="30" width="40" /></a>
 </p>
 

@@ -9,7 +9,7 @@
 
 - I’m looking for an opportunity in : **DATA ANALYTICS & SCIENCE**
 
-- My Portfolio : [https://shabab01.github.io/](https://shabab01.github.io/)
+- My Portfolio : [https://bit.ly/4g08QsZ](https://bit.ly/4g08QsZ)
 
 - Ask me about : **DATA ANALYSIS & VISUALIZATION, EDA, MACHINE LEARNING, STATISTICAL ANALYSIS**
 

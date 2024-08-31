@@ -15,8 +15,7 @@
 
 - Reach me : **shababahmed69@gmail.com**
 
-- My Resume : [https://drive.google.com/file/d/1INU73J173yRYcFmCTe8bybbNwTzIz1WP/view?usp=sharing](https://drive.google.com/file/d/1INU73J173yRYcFmCTe8bybbNwTzIz1WP/view?usp=sharing)
-
+- My Resume : [https://drive.google.com/file/d/1INU73J173yRYcFmCTe8bybbNwTzIz1WP/view?usp=sharing](https://drive.google.com/file/d/1EPBABwc22ktmxIX8jw-Cl69rKAwjijPq/view?usp=sharing)
 - Fun fact : **I'M FUNNY  :)**
 
 <h3 align="left">Connect with me:</h3>

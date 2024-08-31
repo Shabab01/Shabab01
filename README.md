@@ -13,7 +13,7 @@
 
 - Ask me about : **DATA ANALYSIS & VISUALIZATION, EDA, MACHINE LEARNING, STATISTICAL ANALYSIS**
 
-- Reach me : **shababahmed69@gmail.com**
+- Reach me : **dataanalyst.shabab@gmail.com**
 
 - My Resume : [Link](https://drive.google.com/file/d/1EPBABwc22ktmxIX8jw-Cl69rKAwjijPq/view?usp=sharing)
 - Fun fact : **I'M FUNNY  :)**
